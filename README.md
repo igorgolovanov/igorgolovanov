@@ -2,9 +2,7 @@
 
 **Engineering Manager @ Pluto TV (Paramount)** — leading the Discovery & Personalization platform serving 80M+ MAU across 30+ countries on the world's #1 free ad-supported streaming service.
 
-Founded and scaled the Search service and personalization delivery platform from zero to production. Led Node.js → Go migration and broader infrastructure modernization across the platform. Currently contributing to Paramount Streaming convergence after the Skydance-Paramount merger.
-
-I lead teams and architect cloud-native backends at scale. My focus is on high-load distributed systems on Kubernetes (AWS/GCP), AI-driven Search & personalization, and data platforms that operate reliably across regions.
+I lead engineering teams and architect cloud-native backends at scale. Focused on high-load distributed systems on Kubernetes (AWS/GCP), AI-driven Search & personalization, and data platforms operating reliably across regions.
 
 ## Stack
 
@@ -64,8 +62,8 @@ I lead teams and architect cloud-native backends at scale. My focus is on high-l
 - **High-load distributed systems** — multi-region services on Kubernetes (AWS/GCP), graceful degradation, tiered caching, idempotency, stable p95/p99 under prime-time peaks
 - **Personalization delivery platforms** — multi-strategy serving (trending, geo/category, similarity, continuation), A/B testing infrastructure, online signals & embeddings pipelines
 - **Engineering leadership** — leading two squads (~10-12 engineers including tech leads), career growth and internal promotions, cross-functional alignment with Product, Data Science, and ML Platform
-- **Infrastructure modernization** — Node.js → Go migrations, multi-cloud strategy, cost optimization, SRE foundation with 99.9% availability SLO
+- **Reliability & observability** — multi-cloud strategy, cost optimization, SRE foundation with 99.9% availability SLO
 
 ## Open to
 
-Conversations about high-load architecture, multi-region platforms, AI-native search & personalization, and data systems at scale.
+Conversations about high-load architecture, multi-region platforms, AI-native search & personalization, and data systems at scale
