@@ -4,6 +4,8 @@
 
 I lead engineering teams and architect cloud-native backends at scale. Focused on high-load distributed systems on Kubernetes (AWS/GCP), AI-driven Search & personalization, and data platforms operating reliably across regions.
 
+🔗 Working with: [Pluto TV](https://github.com/pluto-tv) · [Paramount Streaming](https://github.com/paramount-streaming)
+
 ## Stack
 
 **Languages & Frameworks**  
@@ -61,9 +63,9 @@ I lead engineering teams and architect cloud-native backends at scale. Focused o
 - **AI-driven Search & Personalization at scale** — hybrid retrieval (BM25 + dense embeddings), ANN/HNSW candidate generation, learning-to-rank, vector search, LLM/RAG for query understanding
 - **High-load distributed systems** — multi-region services on Kubernetes (AWS/GCP), graceful degradation, tiered caching, idempotency, stable p95/p99 under prime-time peaks
 - **Personalization delivery platforms** — multi-strategy serving (trending, geo/category, similarity, continuation), A/B testing infrastructure, online signals & embeddings pipelines
-- **Engineering leadership** — leading two squads (~10-12 engineers including tech leads), career growth and internal promotions, cross-functional alignment with Product, Data Science, and ML Platform
+- **Engineering leadership** — leading engineering teams, career growth and internal promotions, cross-functional alignment with Product, Data Science, and ML Platform
 - **Reliability & observability** — multi-cloud strategy, cost optimization, SRE foundation with 99.9% availability SLO
 
 ## Open to
 
-Conversations about high-load architecture, multi-region platforms, AI-native search & personalization, and data systems at scale
+Conversations about high-load architecture, multi-region platforms, AI-native search & personalization, and data systems at scale.
