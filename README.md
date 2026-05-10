@@ -68,4 +68,4 @@ I lead teams and architect cloud-native backends at scale. My focus is on high-l
 
 ## Open to
 
-Conversations about high-load architecture, multi-region platforms, AI-native search & personalization, and data systems at scale. Available for remote B2B contract engagements.
+Conversations about high-load architecture, multi-region platforms, AI-native search & personalization, and data systems at scale.
